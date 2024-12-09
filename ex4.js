@@ -1,4 +1,4 @@
-/*Submitted by: Tanya Rotman
+/*Submitted by: Alex Lapin
 Class 48/6
 Exercise 4
 /**
